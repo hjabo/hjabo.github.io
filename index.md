@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 마스크가 입고되면 전해드립니다
 
-You can use the [editor on GitHub](https://github.com/hjabo/hjabo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+마입전 공식 페이지에 오신 것을 환영합니다. 마입전은 마스크 입고 시간이 불안정한 매점을 이용해야만 하는(또는 마스크 사는 것을 까먹으시는)분들을 위해 개발된 안드로이드 전용 어플리케이션입니다. Google play스토어 등록에 지연 문제가 있기 때문에 빠른 업데이트를 위해 github페이지를 통해 다운로드 링크와 소식을 전해드리겠습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 가장 최신 버전
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 개발자에게 연락
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hjabo/hjabo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+hjabo@naver.com
