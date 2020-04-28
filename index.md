@@ -6,7 +6,7 @@
 마입전 공식 페이지에 오신 것을 환영합니다. 마입전은 마스크 입고 시간이 불안정한 매점을 이용해야만 하는(또는 마스크 사는 것을 까먹으시는)분들을 위해 개발된 안드로이드 전용 어플리케이션입니다. Google play스토어 등록에 지연 문제가 있기 때문에 빠른 업데이트를 위해 github페이지를 통해 다운로드 링크와 소식을 전해드리겠습니다.
 
 ### 가장 최신 버전
-![마입전v1.0](https://github.com/hjabo/hjabo.github.io/releases/download/1.0/v1.0.apk)
+[마입전v1.0](https://github.com/hjabo/hjabo.github.io/releases/download/1.0/v1.0.apk)
 
 ### 개발자에게 문의하기
 <hjabo33@gmail.com>
