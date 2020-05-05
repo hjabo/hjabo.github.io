@@ -7,7 +7,7 @@
 현재 Google play스토어에 어플리케이션을 등록하는 데에 지연 문제가 있기 때문에 빠른 업데이트를 위해 github페이지를 통해 다운로드 링크와 소식을 전해드리겠습니다.
 
 ### 가장 최신 버전
-[마입전v1.2](https://github.com/hjabo/hjabo.github.io/releases/download/1.3/MaEipJun.v1.3.apk)
+[마입전v1.3](https://github.com/hjabo/hjabo.github.io/releases/download/1.3/MaEipJun.v1.3.apk)
 
 ### 역사
 #### 마입전v1.3(2020.05.05) : 이제부터 GPS가 정상적으로 로드되지 않는 경우 다른 방식을 이용해 위치 정보를 가져옵니다.
