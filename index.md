@@ -7,7 +7,7 @@
 현재 Google play스토어에 어플리케이션을 등록하는 데에 지연 문제가 있기 때문에 빠른 업데이트를 위해 github페이지를 통해 다운로드 링크와 소식을 전해드리겠습니다.
 
 ### 가장 최신 버전
-[마입전v1.0](https://github.com/hjabo/hjabo.github.io/releases/download/1.0/v1.0.apk)
+[마입전v1.0](https://github.com/hjabo/hjabo.github.io/releases/download/1.0/MaEipJun.v1.0.apk)
 
 ### 개발자에게 문의하기
 <hjabo33@gmail.com>
